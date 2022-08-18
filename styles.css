@@ -1,0 +1,55 @@
+html {
+    height: 100%
+
+}
+
+body {
+    background: radial-gradient(#ff0000 0%, #791111 100%);
+    text-align: center;
+    background-repeat:no-repeat;
+    font-family: 'Oswald', sans-serif;
+    font-size: 150%;
+}
+
+#para {
+    text-align: center;
+}
+
+#btn {
+    border: 13px solid #000;
+    font-size: 90%;
+    padding: 5px;
+    font-size: 150%;
+}
+
+#btn2 {
+    border: 13px solid #000;
+    font-size: 90%;
+    padding: 5px;
+    font-size: 150%;
+}
+
+#btn3 {
+    border: 13px solid #000;
+    font-size: 90%;
+    padding: 5px;
+    font-size: 150%;
+}
+
+.cpwr {
+    border: 13px solid #000;
+    background-color: azure;
+    font-size: 90%;
+    width: 200px;
+    float: left;
+    margin: 25px;
+}
+
+.cps {
+    border: 13px solid #000;
+    background-color: azure;
+    font-size: 90%;
+    width: 200px;
+    float: left;
+    margin: 25px;
+}
